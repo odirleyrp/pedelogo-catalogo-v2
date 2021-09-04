@@ -50,8 +50,8 @@ namespace PedeLogo.Catalogo.Api
                 c.SwaggerDoc("v4", new OpenApiInfo
                 {
                     Version = "v4",
-                    Title = "API para cadastro de Produtos",
-                    Description = "API para cadastro de Produtos"
+                    Title = "API para cadastro de Produtos da BBCE",
+                    Description = "API para cadastro de Produtos da BBCE"
                 });
             });
         }
